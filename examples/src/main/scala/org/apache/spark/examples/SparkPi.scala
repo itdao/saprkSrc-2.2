@@ -39,6 +39,6 @@ object SparkPi {
     println("Pi is roughly " + 4.0 * count / (n - 1))
     spark.stop()
   }
-  // i  am   test adsa
+  //  core
 }
 // scalastyle:on println
